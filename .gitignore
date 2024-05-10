@@ -1,0 +1,20 @@
+
+# Node.js 패키지들이 설치되는 디렉토리
+node_modules/
+dist/
+build/
+venv/
+
+# 환경 변수를 저장하는 파일
+*.env
+
+# 패키지 매니저에서 발생한 디버그 로그 파일들
+npm-debug.log
+yarn-error.log
+
+# macOS에서 생성되는 .DS_Store 파일
+.DS_Store
+
+# 빌드된 파일이나 디렉토리
+dist/
+build/
